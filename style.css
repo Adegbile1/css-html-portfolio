@@ -1,0 +1,9 @@
+.bio_text{
+    background-color: aqua;
+}
+.hero{
+        margin: 5px;
+        border: 1px solid #ccc;
+        float: left;
+        width: 180px;
+      }
